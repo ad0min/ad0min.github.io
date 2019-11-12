@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Dat and this is place that my journey is told. Mostly, I will share my thought about technology fastinated me.
+
+
 
 ### More Information
 
@@ -12,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Tell me any problem [ntdat017@gmail.com](mailto:ntdat017@gmail.com)
