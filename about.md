@@ -8,10 +8,10 @@ I'm Dat and this is place that my journey is told. Mostly, I will share my thoug
 
 
 
-### More Information
+<!-- ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A place to include any other types of information that you'd like to include about yourself. -->
 
 ### Contact me
 
-Tell me any problem [ntdat017@gmail.com](mailto:ntdat017@gmail.com)
+Tell me any problem at [ntdat017@gmail.com](mailto:ntdat017@gmail.com)
